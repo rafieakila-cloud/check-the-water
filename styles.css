@@ -6,3 +6,4 @@
 #shop{display:flex;gap:6px;overflow-x:auto;max-width:980px;margin:auto;padding:6px}.card{min-width:96px;background:#123524;border-radius:12px;padding:8px;text-align:center;cursor:pointer;border:2px solid transparent}.card.sel{border-color:#fff}.card b{display:block;font-size:13px}.card small{opacity:.7;font-size:11px}.card i{font-style:normal;font-size:28px;display:block}
 #cv{display:block;margin:6px auto;border-radius:12px;background:#0f3d1f;max-width:98vw}
 #msg{text-align:center;min-height:24px;font-weight:800} #ship{text-align:center;font-weight:800}
+@media (orientation:portrait){body::after{content:"Putar HP ke Landscape (tidur) biar gampang main!";display:block;text-align:center;padding:10px;background:#ffd60a;color:#111;font-weight:800}}
